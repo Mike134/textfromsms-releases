@@ -1,0 +1,35 @@
+name: Report a problem
+description: Report a reproducible TextFromSMS problem.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include message text, exports, contact details, codes, or private screenshots."
+  - type: input
+    id: version
+    attributes:
+      label: TextFromSMS version
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone model and Android version
+    validations:
+      required: true
+  - type: dropdown
+    id: installation
+    attributes:
+      label: Installation
+      options:
+        - Fresh install from official release APK
+        - Update from a previous release
+        - Update from a private prototype
+        - Other
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps, expected result, and actual result
+      description: Include exact error wording with private information removed.
+    validations:
+      required: true

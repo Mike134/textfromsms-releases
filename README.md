@@ -7,13 +7,13 @@ Export a message conversation to readable text, share it, or print it.
 **[Official downloads](https://github.com/Mike134/textfromsms-releases/releases)** ·
 [User guide](TextFromSMS%20User%20Guide.md) · [Privacy](PRIVACY.md) · [Signing](SIGNING.md)
 
-## Release candidate
+## Download version 1.0.0
 
-Version **1.0.0-rc1** is available for installation testing. Select its APK under Assets on
-[the release page](https://github.com/Mike134/textfromsms-releases/releases/tag/v1.0.0-rc1).
+Select **TextFromSMS-1.0.0.apk** under Assets on
+[the release page](https://github.com/Mike134/textfromsms-releases/releases/tag/v1.0.0).
 Android 11 or newer is required. Basic use was reported successful on two phones of the same
-model running Android 16; other devices and Android versions have not yet been verified.
-The new release signing-key upgrade still needs installation confirmation.
+model running Android 16. Updating from the private prototype to the signed release candidate
+was also confirmed working. Other devices and Android versions have not yet been verified.
 
 ## Features
 

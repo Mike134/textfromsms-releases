@@ -1,6 +1,6 @@
 # TextFromSMS User Guide
 
-For version **1.0.0-rc1** · Updated October 16, 2026
+For version **1.0.0** · Updated October 16, 2026
 
 ## What TextFromSMS does
 
@@ -21,9 +21,9 @@ The app's **About TextFromSMS** button also links to this official location.
 
 Install the release APK by opening it on your phone. If prompted, allow the browser or file
 manager you are using to install apps from that source. For an existing TextFromSMS installation,
-choose **Update** rather than uninstalling first. The release candidate includes Android signing-key
-rotation proof for upgrading the private prototypes; this update path still needs on-phone
-confirmation. If Android reports a signing conflict, report it before uninstalling or clearing data.
+choose **Update** rather than uninstalling first. Updating from the private prototype to the signed
+release candidate was confirmed working on Android 16. The release uses the same signing key as
+that candidate. If Android reports a signing conflict, report it before uninstalling or clearing data.
 
 1. Open **TextFromSMS** on your phone.
 2. Tap **Read conversations**.

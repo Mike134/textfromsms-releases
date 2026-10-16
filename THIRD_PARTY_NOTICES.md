@@ -1,6 +1,6 @@
 # Third-party notices
 
-TextFromSMS 1.0.0-rc1 includes unmodified runtime libraries under the Apache License 2.0.
+TextFromSMS 1.0.0 includes unmodified runtime libraries under the Apache License 2.0.
 These components keep their own licenses and copyrights. App distribution terms do not
 restrict the rights those licenses grant for the components themselves.
 
